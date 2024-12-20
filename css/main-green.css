@@ -1513,10 +1513,6 @@ body > footer .copyrights {
   z-index: 0;
 }
 
-.portfolio-grid figure:nth-child(even) a div:before {
-  background-color: #9e51f3;
-}
-
 .portfolio-grid figure a:hover div {
   left: 0px;
 }
